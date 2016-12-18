@@ -1,5 +1,6 @@
 Revision history for HTML-FormatText-WithLinks-AndTables
 
+        Cease installing README.pod to @INC (KENTNL)
         Remove redundant tests (KENTNL)
         Remove unneeded +x bits (KENTNL)
 0.07    Fri 16 Dec 2016

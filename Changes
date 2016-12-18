@@ -1,5 +1,6 @@
 Revision history for HTML-FormatText-WithLinks-AndTables
 
+        Remove redundant tests (KENTNL)
         Remove unneeded +x bits (KENTNL)
 0.07    Fri 16 Dec 2016
         Strips \240 characters created by HTML::Formatter when it encounters a &nbsp;
